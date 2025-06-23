@@ -58,7 +58,7 @@ a:active,a:hover{
 }
 
 section{
-    /* background:  url("bg1.jpg") no repeat; */
+    /* background:  url("../images/prabhas.jpg") no repeat;*/
     background-image: url("../images/prabhas.jpg");
     background-repeat: no-repeat;
     background-size: cover;
